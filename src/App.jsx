@@ -15,7 +15,7 @@ import Banner2 from "./Banner2";
 import Deals from "./Deals";
 import ShopByBrands from "./ShopByBrands";
 import Help from "./Help";
-import Discount from "./discount";
+
 import BrandPage from "./pages/BrandPage";
 import AdminDashboard from "./AdminDashboard";
 
@@ -78,7 +78,7 @@ const products = [
       
 
        <Help/>
-       <Discount/>
+
        <Footer/>
 
 
